@@ -1,3 +1,7 @@
 git init 
-git add <filename>
+git add <filename> --> changes stage 
 git status
+//identity , commit - user name, email and change(files)
+git config--global user.email"email@gmail.com"
+git config--global user.name"user name"
+git commit ---- stage changes local .git repo 
