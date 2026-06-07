@@ -1,5 +1,5 @@
 git init 
-git add <filename> --> changes stage 
+git add filename --> changes stage 
 git status
 //identity , commit - user name, email and change(files)
 git config--global user.email"email@gmail.com"
@@ -8,4 +8,6 @@ git commit ---- stage changes local .git repo
 
 git branch //list branches
 git branch -m "name change"
-git branch "experiment"
+git branch branchname
+git checkout branchname
+git merge
