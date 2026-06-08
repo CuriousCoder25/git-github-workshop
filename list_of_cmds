@@ -6,7 +6,7 @@ git config--global user.email"email@gmail.com"
 git config--global user.name"user name"
 git commit ---- stage changes local .git repo 
 
-git branch //list branches 
+git branch //list branches
 git branch -m "name change"
 git branch branchname
 git checkout branchname
