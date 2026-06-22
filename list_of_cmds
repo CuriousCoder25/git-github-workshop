@@ -10,4 +10,4 @@ git branch //list branches
 git branch -m "name change"
 git branch branchname
 git checkout branchname
-git diff development production
+git diff development productio
